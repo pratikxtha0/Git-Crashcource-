@@ -2,3 +2,4 @@ day 1 of git and github
 -git init
 git add
 - git commit -m ""
+hi
