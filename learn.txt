@@ -3,3 +3,4 @@ day 1 of git and github
 git add
 - git commit -m ""
 hi
+git pull origin master
